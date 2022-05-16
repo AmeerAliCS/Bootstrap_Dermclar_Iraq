@@ -48,3 +48,10 @@ p{
 .description{
     margin: 10%;
 }
+.about{
+    padding-right: 100px;
+    padding-left: 100px;
+}
+.buttons{
+    margin-bottom: 20px;
+}
